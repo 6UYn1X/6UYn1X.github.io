@@ -4,13 +4,19 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2026/03/18/hello-world/"/>
-    <url>/2026/03/18/hello-world/</url>
+    <title>第一章</title>
+    <link href="/2026/03/21/post/"/>
+    <url>/2026/03/21/post/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="函数间断点"><a href="#函数间断点" class="headerlink" title="函数间断点"></a>函数间断点</h1><p>间断点定义：<br>设函数f(x)在点x₀的某去心邻域内有定义，如果函数f（x）有下列三种情形之一：<br>（1）在x没有定义；<br>（2）虽然在x₀有定义，但limx→x₀ f（x）不存在；<br>（3）虽然在x₀有定义且limx→x₀f（x）存在，但limx→x₀≠f（x₀）则称函数f（x）在点x₀不连续，而点x₀称为函数的不连续点或间断点.</p><h1 id="间断点题型"><a href="#间断点题型" class="headerlink" title="间断点题型"></a>间断点题型</h1><p>1. 求出函数<br>f(x) &#x3D; (x² − 1) &#x2F; (x² − 3x + 2)<br>的间断点，并指出其类型。</p><p>2. 求出函数<br>f(x) &#x3D; [1 − e^(1&#x2F;x)] &#x2F; [1 + e^(1&#x2F;x)]<br>的间断点，并指出其类型。</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>Math</tag>
+      
+    </tags>
     
   </entry>
   
