@@ -8,7 +8,7 @@
     <link href="/2026/03/21/post/"/>
     <url>/2026/03/21/post/</url>
     
-    <content type="html"><![CDATA[<h1 id="函数间断点"><a href="#函数间断点" class="headerlink" title="函数间断点"></a>函数间断点</h1><p>间断点定义：<br>设函数f(x)在点x₀的某去心邻域内有定义，如果函数f（x）有下列三种情形之一：<br>（1）在x没有定义；<br>（2）虽然在x₀有定义，但limx→x₀ f（x）不存在；<br>（3）虽然在x₀有定义且limx→x₀f（x）存在，但limx→x₀≠f（x₀）则称函数f（x）在点x₀不连续，而点x₀称为函数的不连续点或间断点.</p><h1 id="间断点题型"><a href="#间断点题型" class="headerlink" title="间断点题型"></a>间断点题型</h1><p>1. 求出函数<br>f(x) &#x3D; (x² − 1) &#x2F; (x² − 3x + 2)<br>的间断点，并指出其类型。</p><p>2. 求出函数<br>f(x) &#x3D; [1 − e^(1&#x2F;x)] &#x2F; [1 + e^(1&#x2F;x)]<br>的间断点，并指出其类型。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="函数间断点"><a href="#函数间断点" class="headerlink" title="函数间断点"></a>函数间断点</h1><p>间断点定义：<br>设函数f(x)在点x₀的某去心邻域内有定义，如果函数f（x）有下列三种情形之一：<br>（1）在x没有定义；<br>（2）虽然在x₀有定义，但limx→x₀ f（x）不存在；<br>（3）虽然在x₀有定义且limx→x₀f（x）存在，但limx→x₀≠f（x₀）则称函数f（x）在点x₀不连续，而点x₀称为函数的不连续点或间断点.</p><h1 id="间断点题型"><a href="#间断点题型" class="headerlink" title="间断点题型"></a>间断点题型</h1><p>1. 求出函数<br>f(x) &#x3D; (x² − 1) &#x2F; (x² − 3x + 2)<br>的间断点，并指出其类型。</p><p>2. 求出函数<br>f(x) &#x3D; [1 − e^(1&#x2F;x)] &#x2F; [1 + e^(1&#x2F;x)]<br>的间断点，并指出其类型。</p>]]></content>
     
     
     
